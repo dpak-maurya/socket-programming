@@ -17,7 +17,10 @@ int main(){
     bzero(&addr,sizeof(addr));
 
     if((sfd=socket(AF_INET,SOCK_STREAM,0))==-1)
-    printf("socket creation failed\n");
+    {
+    	printf("socket creation failed\n");
+    	exit(-1);
+    }
     
     int len=sizeof(struct sockaddr_in);
     if(bind(sfd,(struct sockaddr*)&addr,len)==-1)
