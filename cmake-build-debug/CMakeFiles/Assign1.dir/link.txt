@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Assign1.dir/main.cpp.o  -o Assign1 

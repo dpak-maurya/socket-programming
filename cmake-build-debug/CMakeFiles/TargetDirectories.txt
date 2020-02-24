@@ -1,0 +1,5 @@
+/home/dpak/Music/Assign1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dpak/Music/Assign1/cmake-build-debug/CMakeFiles/client.dir
+/home/dpak/Music/Assign1/cmake-build-debug/CMakeFiles/Assign1.dir
+/home/dpak/Music/Assign1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dpak/Music/Assign1/cmake-build-debug/CMakeFiles/server.dir
