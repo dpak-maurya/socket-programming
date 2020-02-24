@@ -1,6 +1,10 @@
 
 cmake_minimum_required(VERSION 3.15)
+<<<<<<< HEAD
 project(ClientServer)
+=======
+project(clientServer)
+>>>>>>> 436046722b1befef7ba4d19500f6bfae77e0009e
 
 set(CMAKE_CXX_STANDARD 14)
 
