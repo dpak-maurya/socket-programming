@@ -6,8 +6,7 @@
 #include<errno.h>
 #include<sys/types.h>
 #include<netinet/in.h>
-
-
+#include<sys/ipc.h>
 
 int main()
 {
@@ -53,8 +52,6 @@ int main()
     	printf("Sent %d bytes to client :%s\n", sent,inet_ntoa(cli.sin_addr));
     	close(nsfd);
     }
-
  	return 0;
-
 }
 
